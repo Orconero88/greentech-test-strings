@@ -6,7 +6,7 @@ Simple guidelines to start the project:
 
 To run the project start by cloning the repository (greentech-test).
 
-	git clone https://github.com/Orconero88/greentech-test-strings.git
+	git clone https://github.com/davidechieli/greentech-test-strings.git
 then enter in the project root directory:
 
 	cd greentech-test-strings
