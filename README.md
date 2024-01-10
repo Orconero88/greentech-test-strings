@@ -2,7 +2,7 @@
 The project uses Node 21.1 and TypeScript.
 Simple guidelines to start the project:
 
- ## Install 
+ ## Setup 
 
 To run the project start by cloning the repository (greentech-test).
 
